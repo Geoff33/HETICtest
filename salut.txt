@@ -1,3 +1,5 @@
 Coucou Geoff33 !
 
 Tiens, salut Flo ! Comment vas tu ?
+
+Très bien et toi ? C'est pas un peu cool Git ?
